@@ -1,0 +1,25 @@
+{
+  "name": "desafio_revvo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellacamara/desafio_revvo.git"
+  },
+  "author": "Marcella Camara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcellacamara/desafio_revvo/issues"
+  },
+  "homepage": "https://github.com/marcellacamara/desafio_revvo#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
